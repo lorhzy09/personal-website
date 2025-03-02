@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "Loretta Ziyue Hu",
     "section": "",
-    "text": "Hi there, my name is Loretta 胡子悦\nI am a senior at UCLA, majoring in Statistics and Data Science"
+    "text": "Hi there, my name is Loretta 胡子悦"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Loretta Ziyue Hu",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I from Shenzhen, China; I’m pursing studies in the United States, focusing on the intersection between Data Science and Public Health.\nDownload My CV"
+  },
+  {
+    "objectID": "about.html#my-cvhu_loretta_cv.pdf",
+    "href": "about.html#my-cvhu_loretta_cv.pdf",
+    "title": "Loretta Ziyue Hu",
+    "section": "[My CV](/hu_loretta_cv.pdf)",
+    "text": "[My CV](/hu_loretta_cv.pdf)"
+  },
+  {
+    "objectID": "about.html#my-cv",
+    "href": "about.html#my-cv",
+    "title": "Loretta Ziyue Hu",
+    "section": "My CV",
+    "text": "My CV"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Project 1"
   }
 ]

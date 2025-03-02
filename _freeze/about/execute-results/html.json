@@ -1,0 +1,14 @@
+{
+  "hash": "2b9801ec97a5eaa7f64aa6ea22d562d4",
+  "result": {
+    "markdown": "---\ntitle: \"Loretta Ziyue Hu\"\nabout:\n  template: jolla\n  image: profile-pic2.jpg\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/lorhzy09/\n    - icon: instagram\n      text: Instagram\n      href: https://www.instagram.com/lorhu09/\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

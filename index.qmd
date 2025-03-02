@@ -3,5 +3,3 @@
 ---
 
 Hi there, my name is Loretta 胡子悦
-
-I am a senior at [UCLA](https://www.ucla.edu/), majoring in Statistics and Data Science
