@@ -11,7 +11,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: morph
+    background-color: violet
     css: styles.cssqua
     toc: true
 
