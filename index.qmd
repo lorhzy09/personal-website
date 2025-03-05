@@ -12,6 +12,6 @@ about:
       href: https://www.instagram.com/lorhu09/
 ---
 
-Hi there! I from Shenzhen, China; I'm pursing studies in the United States, focusing on the intersection between Data Science and Public Health.
+Hi there! My name is Loretta and I'm from Shenzhen, China; I'm currently pursing studies in the U.S., focusing on the intersection between Data Science and Public Health.
 
 Download [My CV](/hu_loretta_cv.pdf)
