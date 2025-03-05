@@ -1,5 +1,17 @@
 ---
-# title: "personal-website"
+title: "Loretta Ziyue Hu"
+about:
+  template: jolla
+  image: profile-pic2.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lorhzy09/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/lorhu09/
 ---
 
-Hi there, my name is Loretta 胡子悦
+Hi there! I from Shenzhen, China; I'm pursing studies in the United States, focusing on the intersection between Data Science and Public Health.
+
+Download [My CV](/hu_loretta_cv.pdf)
