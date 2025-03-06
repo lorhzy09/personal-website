@@ -1,7 +1,7 @@
 ---
 title: "Loretta Ziyue Hu"
 about:
-  template: jolla
+  template: solana
   image: profile-pic2.jpg
   links:
     - icon: github
@@ -12,6 +12,18 @@ about:
       href: https://www.instagram.com/lorhu09/
 ---
 
-Hi there! My name is Loretta and I'm from Shenzhen, China; I'm currently pursing studies in the U.S., focusing on the intersection between Data Science and Public Health.
+Hi there! I from Shenzhen, China; I'm pursing studies in the United States, focusing on the intersection between Data Science and Public Health. I enjoy reading and Brazilian Jiu Jitsu.
 
 Download [My CV](/hu_loretta_cv.pdf)
+
+### Education
+
+University of California, Los Angeles \| Los Angeles, CA B.S. in Statistics and Data Science \| Sept 2021 - June 2025
+
+### Experience
+
+[Mars Wrigley, China](https://www.mars.com/) \| Digital Team Data Science Intern \| Summer 2024
+
+[UCLA Library](https://www.library.ucla.edu/about/programs/ucla-library-datasquad/) \| Data Scientist \| 09/2023 - present
+
+[Quantitative Psychopathology Lab at Boston University](https://sites.google.com/bu.edu/qpl/home) \| Primary Research Assistant \| 08/2024 -- present

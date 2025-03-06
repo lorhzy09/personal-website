@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Loretta Ziyue Hu",
     "section": "",
-    "text": "Hi there! My name is Loretta and I’m from Shenzhen, China; I’m currently pursing studies in the U.S., focusing on the intersection between Data Science and Public Health.\nDownload My CV"
+    "text": "Hi there! I from Shenzhen, China; I’m pursing studies in the United States, focusing on the intersection between Data Science and Public Health. I enjoy reading and Brazilian Jiu Jitsu.\nDownload My CV\n\nEducation\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2021 - June 2025\n\n\nExperience\nMars Wrigley, China | Digital Team Data Science Intern | Summer 2024\nUCLA Library | Data Scientist | 09/2023 - present\nQuantitative Psychopathology Lab at Boston University | Primary Research Assistant | 08/2024 – present"
   },
   {
     "objectID": "projects.html",
@@ -17,14 +17,28 @@
     "objectID": "projects.html#data-science-projects",
     "href": "projects.html#data-science-projects",
     "title": "Projects",
-    "section": "",
-    "text": "## Other Projects"
+    "section": "Data Science Projects",
+    "text": "Data Science Projects"
   },
   {
     "objectID": "projects.html#other-projects",
     "href": "projects.html#other-projects",
     "title": "Projects",
-    "section": "",
-    "text": "If you have non-data projects, list them here."
+    "section": "Other Projects",
+    "text": "Other Projects"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Loretta Ziyue Hu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Loretta Ziyue Hu",
+    "section": "Experience",
+    "text": "Experience\nMars Wrigley, China | Digital Team Data Science Intern | Summer 2024\nUCLA Library | Data Scientist | 09/2023 - present\nQuantitative Psychopathology Lab at Boston University | Primary Research Assistant | 08/2024 – present"
   }
 ]
