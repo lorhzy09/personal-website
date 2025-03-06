@@ -1,5 +1,12 @@
 ---
-title: "projects"
+title: "Projects"
+format: html
 ---
 
-### Project 1
+# My Projects 
+
+Here are some of the projects I've worked on.
+
+## Data Science Projects
+
+## Other Projects

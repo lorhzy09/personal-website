@@ -1,37 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Loretta Ziyue Hu",
-    "section": "",
-    "text": "Hi there! I from Shenzhen, China; I’m pursing studies in the United States, focusing on the intersection between Data Science and Public Health.\nDownload My CV"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Loretta Ziyue Hu",
     "section": "",
-    "text": "Hi there! I from Shenzhen, China; I’m pursing studies in the United States, focusing on the intersection between Data Science and Public Health.\nDownload My CV"
-  },
-  {
-    "objectID": "about.html#my-cvhu_loretta_cv.pdf",
-    "href": "about.html#my-cvhu_loretta_cv.pdf",
-    "title": "Loretta Ziyue Hu",
-    "section": "[My CV](/hu_loretta_cv.pdf)",
-    "text": "[My CV](/hu_loretta_cv.pdf)"
-  },
-  {
-    "objectID": "about.html#my-cv",
-    "href": "about.html#my-cv",
-    "title": "Loretta Ziyue Hu",
-    "section": "My CV",
-    "text": "My CV"
+    "text": "Hi there! My name is Loretta and I’m from Shenzhen, China; I’m currently pursing studies in the U.S., focusing on the intersection between Data Science and Public Health.\nDownload My CV"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "projects",
+    "title": "Projects",
     "section": "",
-    "text": "Project 1"
+    "text": "Here are some of the projects I’ve worked on."
+  },
+  {
+    "objectID": "projects.html#data-science-projects",
+    "href": "projects.html#data-science-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "## Other Projects"
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "If you have non-data projects, list them here."
   }
 ]
