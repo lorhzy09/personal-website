@@ -16,6 +16,7 @@ format:
     background-color: violet
     css: styles.cssqua
     toc: true
+    link-external-newwindow: true
 
 editor: visual
 
