@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of the projects I’ve worked on."
+    "text": "Here are some of the projects I’ve worked on.\n\nQuantitative Psychopathology Lab – Boston University\n\nRole: Team Lead, Data Monitoring\nObjective: Designed and implemented a robust data tracking system for a large-scale virtual mental health study.\nKey Contributions: Led a distributed team across multiple time zones, ensured data integrity, and received positive recognition from project leadership.\n\n\n\nData Science Consulting – UCLA Library\n\nScope: Assisted researchers across disciplines (e.g., political science, engineering) in data visualization, experimental design, and statistical modeling.\nExample Project: Guided a political science student through mediation analysis in R, adapting statistical concepts for non-experts.\n\n\n\nDigital Team Internship – Mars Wrigley China\n\nObjective: Analyzed macroeconomic indicators to uncover insights into sales performance using Python and R.\nImpact: Built predictive models and developed Tableau dashboards for executives, streamlining data-driven decision-making.\n\n\n\nMachine Learning & Data Science Projects\n\nDeep Learning for Argument Classification: Developed a multi-class classification model to analyze argumentative elements in student writing.\nFinancial Analysis & Optimization: Led a team of seven to explore multi-year financial reports, identifying inefficiencies and proposing strategic solutions.\n\n\n\nMental Health Advocacy & Public Health Initiatives\n\nBody Empowerment Project (UCLA): Educated marginalized adolescents about body image and eating disorders.\nPublic Health Outreach: Engaged in research and community-based projects to address mental health disparities, particularly in China."
   },
   {
     "objectID": "projects.html#data-science-projects",
@@ -40,5 +40,47 @@
     "title": "Loretta Ziyue Hu",
     "section": "Experience",
     "text": "Experience\nMars Wrigley, China | Digital Team Data Science Intern | Summer 2024\nUCLA Library | Data Scientist | 09/2023 - present\nQuantitative Psychopathology Lab at Boston University | Primary Research Assistant | 08/2024 – present"
+  },
+  {
+    "objectID": "projects.html#survival-analysis-of-glaucoma-patient-outcomes",
+    "href": "projects.html#survival-analysis-of-glaucoma-patient-outcomes",
+    "title": "Projects",
+    "section": "## Survival Analysis of Glaucoma Patient Outcomes",
+    "text": "## Survival Analysis of Glaucoma Patient Outcomes\n- **Research Focus**: Analyzed trabeculectomy surgical outcomes across Hispanic and European patient demographics. - **Methods Used**: Applied Kaplan-Meier curves and Cox proportional hazards models in R. - **Key Takeaways**: Addressed missing data challenges, refined statistical models for medical research, and co-authored a paper for the American Glaucoma Society 2025 Annual Meeting."
+  },
+  {
+    "objectID": "projects.html#quantitative-psychopathology-lab-boston-university",
+    "href": "projects.html#quantitative-psychopathology-lab-boston-university",
+    "title": "Projects",
+    "section": "Quantitative Psychopathology Lab – Boston University",
+    "text": "Quantitative Psychopathology Lab – Boston University\n- **Role**: Team Lead, Data Monitoring - **Objective**: Designed and implemented a robust data tracking system for a large-scale virtual mental health study. - **Key Contributions**: Led a distributed team across multiple time zones, ensured data integrity, and received positive recognition from project leadership."
+  },
+  {
+    "objectID": "projects.html#data-science-consulting-ucla-library",
+    "href": "projects.html#data-science-consulting-ucla-library",
+    "title": "Projects",
+    "section": "Data Science Consulting – UCLA Library",
+    "text": "Data Science Consulting – UCLA Library\n- **Scope**: Assisted researchers across disciplines (e.g., political science, engineering) in data visualization, experimental design, and statistical modeling. - **Example Project**: Guided a political science student through mediation analysis in R, adapting statistical concepts for non-experts."
+  },
+  {
+    "objectID": "projects.html#digital-team-internship-mars-wrigley-china",
+    "href": "projects.html#digital-team-internship-mars-wrigley-china",
+    "title": "Projects",
+    "section": "Digital Team Internship – Mars Wrigley China",
+    "text": "Digital Team Internship – Mars Wrigley China\n- **Objective**: Analyzed macroeconomic indicators to uncover insights into sales performance using Python and R. - **Impact**: Built predictive models and developed Tableau dashboards for executives, streamlining data-driven decision-making."
+  },
+  {
+    "objectID": "projects.html#machine-learning-data-science-projects",
+    "href": "projects.html#machine-learning-data-science-projects",
+    "title": "Projects",
+    "section": "Machine Learning & Data Science Projects",
+    "text": "Machine Learning & Data Science Projects\n- **Deep Learning for Argument Classification**: Developed a multi-class classification model to analyze argumentative elements in student writing. - **Financial Analysis & Optimization**: Led a team of seven to explore multi-year financial reports, identifying inefficiencies and proposing strategic solutions."
+  },
+  {
+    "objectID": "projects.html#mental-health-advocacy-public-health-initiatives",
+    "href": "projects.html#mental-health-advocacy-public-health-initiatives",
+    "title": "Projects",
+    "section": "Mental Health Advocacy & Public Health Initiatives",
+    "text": "Mental Health Advocacy & Public Health Initiatives\n- **Body Empowerment Project (UCLA)**: Educated marginalized adolescents about body image and eating disorders. - **Public Health Outreach**: Engaged in research and community-based projects to address mental health disparities, particularly in China."
   }
 ]
